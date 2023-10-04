@@ -19,7 +19,7 @@ set (opcs_warnings "-Wall -Wextra -Wno-unused-parameter -Wno-unused-private-fiel
 ## Paths a las distintas carpetas
 ##
 
-set (raiz       "../..")
+set (raiz       "..")
 set (rec_src    ${raiz}/materiales/src-cpp)
 set (rec_inc    ${raiz}/materiales/src-cpp)
 set (alu_src    ${raiz}/src)
